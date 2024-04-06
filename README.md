@@ -24,15 +24,16 @@ The aim is to optimize service delivery, reduce wait times, enhance first-call r
   - Resolved calls: `COUNTROWS(FILTER('Sheet1', 'Sheet1'[Resolved] = "Y"))`
   - Calculated hour from Time column to identify peak call hours.
  
- ### Step 3: Dashboard Development (Visualizations)
+### Step 3: Dashboard Development (Visualizations)
 
-Implemented the following visualizations to display key metrics:
+-Implemented the following visualizations to display key metrics:
+  - Average Satisfaction Rating
+  - Average Speed of Answer in Seconds
+  - Agent Performance (Individual and Overall)
+  - Proportion of Resolved and Not Resolved Calls
+  - Overall Answered Calls
+  - Overall Abandoned Calls
 
-- Average Satisfaction Rating
-- Average Speed of Answer in Seconds
-- Agent Performance (Individual and Overall)
-- Proportion of Resolved and Not Resolved Calls
-- Overall Answered Calls
-- Overall Abandoned Calls
+ 
 
 
