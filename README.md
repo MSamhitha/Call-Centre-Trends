@@ -37,5 +37,56 @@ The aim is to optimize service delivery, reduce wait times, enhance first-call r
 ####  Snapshot of Call Center Trends Dashboard
   - ![Snapshot of Power BI Dashboard - Call Center Trends](https://github.com/MSamhitha/Call-Centre-Trends/assets/122619470/70f1871b-e72e-473b-8a81-65a432c160ef)
 
- 
+ # Call Centre Trends Analysis Report
+
+## Insights
+
+### Key Metrics:
+- Average Satisfaction Rating: 3.4
+- Average Speed of Answer (seconds): 67.52
+
+### Agent Performance:
+| Agent   | Count of Answered (Y/N) | Resolved Calls | Average Satisfaction Rating | Average Speed of Answer (seconds) |
+|---------|-------------------------|----------------|-----------------------------|-----------------------------------|
+| Becky   | 631 (Y)                 | 462            | 3.37                        | 65.33                             |
+| Stewart | 582 (Y)                 | 424            | 3.40                        | 66.18                             |
+| Diane   | 633 (Y)                 | 452            | 3.41                        | 66.27                             |
+| Jim     | 666 (Y)                 | 485            | 3.39                        | 66.34                             |
+| Dan     | 633 (Y)                 | 471            | 3.45                        | 67.28                             |
+| Greg    | 624 (Y)                 | 455            | 3.40                        | 68.44                             |
+| Martha  | 638 (Y)                 | 461            | 3.47                        | 69.49                             |
+| Joe     | 593 (Y)                 | 436            | 3.33                        | 70.99                             |
+| Total   | 5000                    | 3646           | 3.40                        | 67.52                             |
+
+### Maximum Call Time:
+- Maximum calls are observed at 1:00 p.m.
+
+### Proportion of Resolved and Not Resolved Calls:
+- Proportion of Resolved Calls: 72.92%
+- Proportion of Not Resolved Calls: 27.08%
+
+### Overall Call Handling:
+- Overall Abandoned Calls Proportion: 18.92%
+- Overall Answered Calls Proportion: 81.08%
+
+- Total Answered Calls Count: 4054
+- Total Abandoned Calls Count: 946
+
+## Suggestions to PWC
+
+Based on the analysis, here are some suggestions to improve call center performance:
+
+1. **Agent Training:** Provide additional training to agents with lower satisfaction ratings to improve customer interactions and satisfaction levels.
+
+2. **Call Handling Efficiency:** Implement strategies to reduce the average speed of answer, such as optimizing staffing levels during peak call times or improving call routing algorithms.
+
+3. **Resolution Rate Improvement:** Focus on enhancing the resolution rate to reduce the proportion of unresolved calls, ultimately improving overall customer satisfaction.
+
+4. **Abandoned Call Management:** Develop strategies to minimize abandoned calls, potentially by offering alternative contact methods or improving call queue management.
+
+5. **Performance Recognition:** Recognize and reward agents with consistently high performance to motivate and retain top talent within the call center.
+
+By addressing these areas, PWC can enhance customer experience, increase operational efficiency, and drive overall business success.
+
+
 
