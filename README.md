@@ -48,14 +48,14 @@ The aim is to optimize service delivery, reduce wait times, enhance first-call r
 #### Agent Performance:
 | Agent   | Count of Answered (Y/N) | Resolved Calls | Average Satisfaction Rating | Average Speed of Answer (seconds) |
 |---------|-------------------------|----------------|-----------------------------|-----------------------------------|
-| Becky   | 631 (Y)                 | 462            | 3.37                        | 65.33                             |
-| Stewart | 582 (Y)                 | 424            | 3.40                        | 66.18                             |
-| Diane   | 633 (Y)                 | 452            | 3.41                        | 66.27                             |
-| Jim     | 666 (Y)                 | 485            | 3.39                        | 66.34                             |
-| Dan     | 633 (Y)                 | 471            | 3.45                        | 67.28                             |
-| Greg    | 624 (Y)                 | 455            | 3.40                        | 68.44                             |
-| Martha  | 638 (Y)                 | 461            | 3.47                        | 69.49                             |
-| Joe     | 593 (Y)                 | 436            | 3.33                        | 70.99                             |
+| Becky   | 631                     | 462            | 3.37                        | 65.33                             |
+| Stewart | 582                     | 424            | 3.40                        | 66.18                             |
+| Diane   | 633                     | 452            | 3.41                        | 66.27                             |
+| Jim     | 666                     | 485            | 3.39                        | 66.34                             |
+| Dan     | 633                     | 471            | 3.45                        | 67.28                             |
+| Greg    | 624                     | 455            | 3.40                        | 68.44                             |
+| Martha  | 638                     | 461            | 3.47                        | 69.49                             |
+| Joe     | 593                     | 436            | 3.33                        | 70.99                             |
 | Total   | 5000                    | 3646           | 3.40                        | 67.52                             |
 
 #### Maximum Call Time:
