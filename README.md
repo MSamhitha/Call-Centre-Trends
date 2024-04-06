@@ -34,7 +34,7 @@ The aim is to optimize service delivery, reduce wait times, enhance first-call r
   - Proportion of Resolved and Not Resolved Calls
   - Overall Answered Calls
   - Overall Abandoned Calls
- 
+####  Snapshot of Call Center Trends Dashboard
   - ![Snapshot of Power BI Dashboard - Call Center Trends](https://github.com/MSamhitha/Call-Centre-Trends/assets/122619470/70f1871b-e72e-473b-8a81-65a432c160ef)
 
  
