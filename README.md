@@ -19,9 +19,6 @@ The aim is to optimize service delivery, reduce wait times, enhance first-call r
 ### Step 2: Data Modeling (Defining Measures)
 
 - Implemented DAX expressions to create new measures:
-### Step 2: Data Modeling (Defining Measures)
-
-- Implemented DAX expressions to create new measures:
   - Abandoned calls: `COUNTROWS(FILTER('Sheet1', 'Sheet1'[Answered (Y/N)] = "N"))`
   - Answered calls: `COUNTROWS(FILTER('Sheet1', 'Sheet1'[Answered (Y/N)] = "Y"))`
   - Resolved calls: `COUNTROWS(FILTER('Sheet1', 'Sheet1'[Resolved] = "Y"))`
